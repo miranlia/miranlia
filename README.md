@@ -1,5 +1,5 @@
 
--I’m interested in Web Developping projects and everything that is seemingly related to Computer Science. 
+-I’m interested in Web Developping projects and everything that is seemingly related to Computer Science. </br>
 -I’m currently learning JavaScript, Python, HTML/CSS. I learned Python, C and Java.
 
 <!---
